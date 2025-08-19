@@ -6,7 +6,7 @@
 
 ## 💼 About Me
 
-- 🔧 Skilled in Python, Core Java (Spring Boot), HTML/CSS, JavaScript, and MySQL
+- 🔧 Skilled in Python, Core Java (Spring Boot), HTML/CSS, MongoDB, and MySQL
 - 🤖 Experienced with frameworks like **Django**, **Spring Boot**, **Streamlit**, and **TensorFlow**
 - 📊 Developed sentiment analysis dashboards and intelligent coupon systems using **NLP**, **RNNs**, and **recommendation systems**
 - 🧠 Always learning — Completed virtual internship with **Tata & Forage** focused on **data visualization for business insights**
@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages:
-`Python` | `Java` | `C` | `MySQL` | `HTML5` | `CSS3` | `JavaScript`
+`Python` | `Java` | `C` | `MySQL` | `HTML5` | `CSS3` | `MongoDb`
 
 ### ⚙️ Frameworks & Libraries:
 `Spring Boot` | `Spring Data` | `Spring Security` | `Django` | `Streamlit`  
